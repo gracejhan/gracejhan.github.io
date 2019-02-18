@@ -12,4 +12,4 @@ Hi, I'm a graduate student at NYU Courant studying Computer Science.
 
 ### Contact me
 
-[grace.han@nyu.edu](mailto:grace.han@nyu.edu)
+[grace dot han at nyu dot edu](mailto:grace.han@nyu.edu)
