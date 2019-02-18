@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm a graduate student at NYU Courant studying Computer Science.
-
-### More Information
+Hi! I'm a graduate student at NYU Courant studying Computer Science.
 
 
-
-### Contact me
+### You can reach me here
 
 [grace dot han at nyu dot edu](mailto:grace.han@nyu.edu)
