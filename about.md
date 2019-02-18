@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I'm a graduate student at NYU Courant studying Computer Science.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[grace.han@nyu.edu](mailto:grace.han@nyu.edu)
